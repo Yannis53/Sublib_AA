@@ -1,0 +1,3 @@
+[submodule "lib_B"]
+	path = lib_B
+	url = git@github.com:Yannis53/lib_B.git
